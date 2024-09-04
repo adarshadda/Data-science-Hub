@@ -13,6 +13,10 @@ In this notebook, I explore multi-level models to predict obesity levels based o
 ### 3. Churn Predictions
 This project focuses on predicting customer churn using various machine learning algorithms. The notebook includes steps for data exploration, feature engineering, model training, and evaluation to identify customers who are likely to churn.
 
+## More Projects to Come
+Stay tuned for more exciting projects and updates as I continue to explore and work on new data science challenges!
+
+
 ## How to Use
 
 1. Clone the repository to your local machine:
