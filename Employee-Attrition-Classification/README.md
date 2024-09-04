@@ -74,5 +74,7 @@ During the analysis the given problem of predicting the attrition we found that 
 
 We built different classifier for the given problem like ADA Boosting, Logistic Regression, Random Forest but ADA Boosting outperformed other classifiers with test accuracy of **75.5** and a f1-score of **75.4**.
 
+The analysis of feature importance underscores that job-related factors, such as **job level** and **job satisfaction**, along with personal factors like **income** and **work-life balance**, are critical in understanding employee attrition. By focusing on these areas, organizations can implement strategies to improve retention and address key issues that may lead to higher employee turnover.
+
 
 
